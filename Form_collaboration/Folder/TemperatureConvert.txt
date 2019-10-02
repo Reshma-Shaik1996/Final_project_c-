@@ -1,0 +1,12 @@
+-18C = -0.4F Very Cold Day
+32F = 0C Freezing point of water
+gF = C 
+ghjC = F 
+ddC = F 
+ggC = 32F Freezing point of water
+15C = 59F Cool Day
+56F = 13.3C Cool Day
+4C = 39.2F 
+1C = 33.8F 
+1C = 33.8F 
+30C = 86F Beach weather

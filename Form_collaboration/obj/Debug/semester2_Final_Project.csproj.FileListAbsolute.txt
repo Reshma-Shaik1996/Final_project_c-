@@ -1,0 +1,38 @@
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\bin\Debug\semester2_Final_Project.exe.config
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\bin\Debug\semester2_Final_Project.exe
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\bin\Debug\semester2_Final_Project.pdb
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.csprojAssemblyReference.cache
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.Form1.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.Properties.Resources.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.csproj.GenerateResource.cache
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.exe
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.pdb
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.Money_Exchange.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.TemperatureConvert.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.Calculator.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.LottoMax.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.IP_Validator.resources
+C:\Users\Karl\codingPlayground\School\Coding Playground\C#\semester2_Final_Project\obj\Debug\semester2_Final_Project.Lotto649.resources
+C:\Users\fifi\Downloads\semester2_Final_Project (1)\semester2_Final_Project\obj\Debug\semester2_Final_Project.csprojAssemblyReference.cache
+C:\Users\fifi\Downloads\semester2_Final_Project (1)\semester2_Final_Project\obj\Debug\semester2_Final_Project.exe
+C:\Users\fifi\Downloads\semester2_Final_Project (1)\semester2_Final_Project\obj\Debug\semester2_Final_Project.pdb
+C:\Users\fifi\Desktop\C#\1831841\bin\Debug\semester2_Final_Project.exe.config
+C:\Users\fifi\Desktop\C#\1831841\bin\Debug\semester2_Final_Project.exe
+C:\Users\fifi\Desktop\C#\1831841\bin\Debug\semester2_Final_Project.pdb
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.csprojAssemblyReference.cache
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.Calculator.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.Form1.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.IP_Validator.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.Lotto649.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.LottoMax.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.Money_Exchange.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.Properties.Resources.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.TemperatureConvert.resources
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.csproj.GenerateResource.cache
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.exe
+C:\Users\fifi\Desktop\C#\1831841\obj\Debug\semester2_Final_Project.pdb
+C:\Users\fifi\Desktop\1831841\obj\Debug\semester2_Final_Project.csprojAssemblyReference.cache
+C:\Users\fifi\Desktop\1831841\obj\Debug\semester2_Final_Project.exe
+C:\Users\fifi\Desktop\1831841\obj\Debug\semester2_Final_Project.pdb
